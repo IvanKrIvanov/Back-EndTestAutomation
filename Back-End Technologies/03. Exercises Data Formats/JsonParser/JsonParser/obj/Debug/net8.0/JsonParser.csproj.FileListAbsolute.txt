@@ -1,0 +1,16 @@
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.exe
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\JsonParser\JsonParser\bin\Debug\net8.0\Datasets\Books.json
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\JsonParser\JsonParser\bin\Debug\net8.0\Datasets\Students.json
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.deps.json
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.runtimeconfig.json
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.dll
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.pdb
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfoInputs.cache
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfo.cs
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.csproj.CoreCompileInputs.cache
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.dll
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\refint\JsonParser.dll
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.pdb
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.genruntimeconfig.cache
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\JsonParser\JsonParser\obj\Debug\net8.0\ref\JsonParser.dll

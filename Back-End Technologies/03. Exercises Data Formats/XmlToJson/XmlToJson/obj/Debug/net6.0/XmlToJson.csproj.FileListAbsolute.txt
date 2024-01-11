@@ -1,0 +1,16 @@
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\XmlToJson\XmlToJson\bin\Debug\net6.0\XmlToJson.exe
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\XmlToJson\XmlToJson\bin\Debug\net6.0\Datasets\Devices.xml
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\XmlToJson\XmlToJson\bin\Debug\net6.0\Datasets\Vehicles.xml
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\XmlToJson\XmlToJson\bin\Debug\net6.0\XmlToJson.deps.json
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\XmlToJson\XmlToJson\bin\Debug\net6.0\XmlToJson.runtimeconfig.json
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\XmlToJson\XmlToJson\bin\Debug\net6.0\XmlToJson.dll
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\XmlToJson\XmlToJson\bin\Debug\net6.0\XmlToJson.pdb
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfoInputs.cache
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfo.cs
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.csproj.CoreCompileInputs.cache
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.dll
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\refint\XmlToJson.dll
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.pdb
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.genruntimeconfig.cache
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\03. Exercises Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\ref\XmlToJson.dll
