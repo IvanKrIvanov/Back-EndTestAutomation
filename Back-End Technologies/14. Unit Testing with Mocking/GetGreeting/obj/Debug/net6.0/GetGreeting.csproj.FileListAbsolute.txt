@@ -1,0 +1,14 @@
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\GetGreeting\bin\Debug\net6.0\GetGreeting.exe
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\GetGreeting\bin\Debug\net6.0\GetGreeting.deps.json
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\GetGreeting\bin\Debug\net6.0\GetGreeting.runtimeconfig.json
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\GetGreeting\bin\Debug\net6.0\GetGreeting.dll
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\GetGreeting\bin\Debug\net6.0\GetGreeting.pdb
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\GetGreeting\obj\Debug\net6.0\GetGreeting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\GetGreeting\obj\Debug\net6.0\GetGreeting.AssemblyInfoInputs.cache
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\GetGreeting\obj\Debug\net6.0\GetGreeting.AssemblyInfo.cs
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\GetGreeting\obj\Debug\net6.0\GetGreeting.csproj.CoreCompileInputs.cache
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\GetGreeting\obj\Debug\net6.0\GetGreeting.dll
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\GetGreeting\obj\Debug\net6.0\refint\GetGreeting.dll
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\GetGreeting\obj\Debug\net6.0\GetGreeting.pdb
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\GetGreeting\obj\Debug\net6.0\GetGreeting.genruntimeconfig.cache
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\GetGreeting\obj\Debug\net6.0\ref\GetGreeting.dll

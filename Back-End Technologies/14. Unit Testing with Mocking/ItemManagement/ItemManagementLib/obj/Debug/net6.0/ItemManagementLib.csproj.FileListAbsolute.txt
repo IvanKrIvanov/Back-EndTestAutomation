@@ -1,0 +1,12 @@
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\ItemManagement\ItemManagementLib\bin\Debug\net6.0\ItemManagementLib.deps.json
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\ItemManagement\ItemManagementLib\bin\Debug\net6.0\ItemManagementLib.dll
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\ItemManagement\ItemManagementLib\bin\Debug\net6.0\ItemManagementLib.pdb
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.csproj.AssemblyReference.cache
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.AssemblyInfoInputs.cache
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.AssemblyInfo.cs
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.csproj.CoreCompileInputs.cache
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.dll
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\refint\ItemManagementLib.dll
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.pdb
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\14. Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ref\ItemManagementLib.dll
