@@ -1,0 +1,12 @@
+﻿@model ProductViewModels
+@{
+	ViewBag.Title = "Product N." + Model.Id;
+}
+
+<div>
+	<div class=" card-header0">@ViewBag.Title</div>
+	<div class=" card-body">
+		<h5 class=" card-title">Product Name: @Model.Name</h5>
+		<p class=" card-text">Price: @Model.Price lv.</p>
+	</div>
+</div>
