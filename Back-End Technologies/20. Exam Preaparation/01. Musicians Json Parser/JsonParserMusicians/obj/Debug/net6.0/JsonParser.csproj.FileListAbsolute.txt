@@ -1,0 +1,15 @@
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\19. Exam Preparation\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\JsonParser.exe
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\19. Exam Preparation\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\Datasets\Musicians.json
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\19. Exam Preparation\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\JsonParser.deps.json
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\19. Exam Preparation\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\JsonParser.runtimeconfig.json
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\19. Exam Preparation\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\JsonParser.dll
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\19. Exam Preparation\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\JsonParser.pdb
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\19. Exam Preparation\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\19. Exam Preparation\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.AssemblyInfoInputs.cache
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\19. Exam Preparation\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.AssemblyInfo.cs
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\19. Exam Preparation\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.csproj.CoreCompileInputs.cache
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\19. Exam Preparation\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.dll
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\19. Exam Preparation\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\refint\JsonParser.dll
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\19. Exam Preparation\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.pdb
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\19. Exam Preparation\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.genruntimeconfig.cache
+D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Technologies Basics\19. Exam Preparation\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\ref\JsonParser.dll
