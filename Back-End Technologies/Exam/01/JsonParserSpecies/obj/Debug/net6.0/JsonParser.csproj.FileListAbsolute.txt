@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\Exam\01\01-EcoLife-Json-Parser\JsonParserSpecies\bin\Debug\net6.0\JsonParser.exe
+C:\Users\Ivan\Desktop\Exam\01\01-EcoLife-Json-Parser\JsonParserSpecies\bin\Debug\net6.0\Datasets\Species.json
+C:\Users\Ivan\Desktop\Exam\01\01-EcoLife-Json-Parser\JsonParserSpecies\bin\Debug\net6.0\JsonParser.deps.json
+C:\Users\Ivan\Desktop\Exam\01\01-EcoLife-Json-Parser\JsonParserSpecies\bin\Debug\net6.0\JsonParser.runtimeconfig.json
+C:\Users\Ivan\Desktop\Exam\01\01-EcoLife-Json-Parser\JsonParserSpecies\bin\Debug\net6.0\JsonParser.dll
+C:\Users\Ivan\Desktop\Exam\01\01-EcoLife-Json-Parser\JsonParserSpecies\bin\Debug\net6.0\JsonParser.pdb
+C:\Users\Ivan\Desktop\Exam\01\01-EcoLife-Json-Parser\JsonParserSpecies\obj\Debug\net6.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Exam\01\01-EcoLife-Json-Parser\JsonParserSpecies\obj\Debug\net6.0\JsonParser.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Exam\01\01-EcoLife-Json-Parser\JsonParserSpecies\obj\Debug\net6.0\JsonParser.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\Exam\01\01-EcoLife-Json-Parser\JsonParserSpecies\obj\Debug\net6.0\JsonParser.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Exam\01\01-EcoLife-Json-Parser\JsonParserSpecies\obj\Debug\net6.0\JsonParser.dll
+C:\Users\Ivan\Desktop\Exam\01\01-EcoLife-Json-Parser\JsonParserSpecies\obj\Debug\net6.0\refint\JsonParser.dll
+C:\Users\Ivan\Desktop\Exam\01\01-EcoLife-Json-Parser\JsonParserSpecies\obj\Debug\net6.0\JsonParser.pdb
+C:\Users\Ivan\Desktop\Exam\01\01-EcoLife-Json-Parser\JsonParserSpecies\obj\Debug\net6.0\JsonParser.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\Exam\01\01-EcoLife-Json-Parser\JsonParserSpecies\obj\Debug\net6.0\ref\JsonParser.dll
