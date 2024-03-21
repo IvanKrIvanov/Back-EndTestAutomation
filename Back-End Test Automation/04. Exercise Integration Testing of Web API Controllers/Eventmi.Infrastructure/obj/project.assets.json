@@ -7087,11 +7087,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Иван\\QA SoftUni\\Back-End Test Automation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi-AppSkeleton\\Eventmi.Infrastructure\\Eventmi.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Иван\\GitHub\\Back-EndTestAutomation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi.Infrastructure\\Eventmi.Infrastructure.csproj",
       "projectName": "Eventmi.Infrastructure",
-      "projectPath": "D:\\Иван\\QA SoftUni\\Back-End Test Automation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi-AppSkeleton\\Eventmi.Infrastructure\\Eventmi.Infrastructure.csproj",
+      "projectPath": "D:\\Иван\\GitHub\\Back-EndTestAutomation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi.Infrastructure\\Eventmi.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "D:\\Иван\\QA SoftUni\\Back-End Test Automation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi-AppSkeleton\\Eventmi.Infrastructure\\obj\\",
+      "outputPath": "D:\\Иван\\GitHub\\Back-EndTestAutomation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",

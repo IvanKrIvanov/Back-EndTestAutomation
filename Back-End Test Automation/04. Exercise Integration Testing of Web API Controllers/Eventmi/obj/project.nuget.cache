@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JfaNnuskSE99HxtRLIX6Ncp5gceSZy6CRyNlRe1NrkY6/u6vXraEgIV8TfUYEk7rR5hHofPETDGQmGFHojvK4g==",
+  "dgSpecHash": "rbxjsUD5EGF7reZwZLdOGdRDd4NLkez+aI6h3QpRxc4rP4TYWclTzGcHkhJlP4xDdhNzgnZyYf2kmdYJlrwaxA==",
   "success": true,
-  "projectFilePath": "D:\\Иван\\QA SoftUni\\Back-End Test Automation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi-AppSkeleton\\Eventmi\\Eventmi.csproj",
+  "projectFilePath": "D:\\Иван\\GitHub\\Back-EndTestAutomation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi\\Eventmi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivan\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/5+pHI5yBbVpzbnaMjQjCVglWRlCN0GBf/gIAbkTgv/RrbVJhaK06NFBAxuYsqMMjkD1irIGwtfAyyxmQyR9aw==",
+  "dgSpecHash": "jbhxgL4BrAPLHCJkh3ZUoNXQ0vWHbYS5vUSPLlW1CiDHcK4TeV9s9RqySL/sDG58snhhnycTA/sxorCcUNZQuw==",
   "success": true,
-  "projectFilePath": "D:\\Иван\\QA SoftUni\\Back-End Test Automation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi-AppSkeleton\\Eventmi.Core\\Eventmi.Core.csproj",
+  "projectFilePath": "D:\\Иван\\GitHub\\Back-EndTestAutomation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi.Core\\Eventmi.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivan\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

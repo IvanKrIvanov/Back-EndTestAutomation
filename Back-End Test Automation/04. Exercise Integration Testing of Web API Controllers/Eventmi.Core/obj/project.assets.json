@@ -7002,11 +7002,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Иван\\QA SoftUni\\Back-End Test Automation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi-AppSkeleton\\Eventmi.Core\\Eventmi.Core.csproj",
+      "projectUniqueName": "D:\\Иван\\GitHub\\Back-EndTestAutomation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi.Core\\Eventmi.Core.csproj",
       "projectName": "Eventmi.Core",
-      "projectPath": "D:\\Иван\\QA SoftUni\\Back-End Test Automation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi-AppSkeleton\\Eventmi.Core\\Eventmi.Core.csproj",
+      "projectPath": "D:\\Иван\\GitHub\\Back-EndTestAutomation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi.Core\\Eventmi.Core.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "D:\\Иван\\QA SoftUni\\Back-End Test Automation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi-AppSkeleton\\Eventmi.Core\\obj\\",
+      "outputPath": "D:\\Иван\\GitHub\\Back-EndTestAutomation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7023,8 +7023,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Иван\\QA SoftUni\\Back-End Test Automation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi-AppSkeleton\\Eventmi.Infrastructure\\Eventmi.Infrastructure.csproj": {
-              "projectPath": "D:\\Иван\\QA SoftUni\\Back-End Test Automation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi-AppSkeleton\\Eventmi.Infrastructure\\Eventmi.Infrastructure.csproj"
+            "D:\\Иван\\GitHub\\Back-EndTestAutomation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi.Infrastructure\\Eventmi.Infrastructure.csproj": {
+              "projectPath": "D:\\Иван\\GitHub\\Back-EndTestAutomation\\Back-End Test Automation\\04. Exercise Integration Testing of Web API Controllers\\Eventmi.Infrastructure\\Eventmi.Infrastructure.csproj"
             }
           }
         }

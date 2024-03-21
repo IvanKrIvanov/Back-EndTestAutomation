@@ -97,7 +97,7 @@ namespace Eventmi.Controllers
         [HttpPost]
         public async Task<IActionResult> Delete(int id)
         {
-            if (id == null) 
+            if (id == null || id == 0) 
             {
                 return NotFound();
             }

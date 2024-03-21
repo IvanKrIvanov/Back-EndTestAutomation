@@ -9,51 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Eventmi
 build_property.RootNamespace = Eventmi
-build_property.ProjectDir = D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Test Automation\04. Exercise Integration Testing of Web API Controllers\Eventmi-AppSkeleton\Eventmi\
+build_property.ProjectDir = D:\Иван\GitHub\Back-EndTestAutomation\Back-End Test Automation\04. Exercise Integration Testing of Web API Controllers\Eventmi\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Иван\QA SoftUni\Back-End Test Automation\Back-End Test Automation\04. Exercise Integration Testing of Web API Controllers\Eventmi-AppSkeleton\Eventmi
+build_property.MSBuildProjectDirectory = D:\Иван\GitHub\Back-EndTestAutomation\Back-End Test Automation\04. Exercise Integration Testing of Web API Controllers\Eventmi
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Иван/QA SoftUni/Back-End Test Automation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi-AppSkeleton/Eventmi/Views/Event/Add.cshtml]
+[D:/Иван/GitHub/Back-EndTestAutomation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi/Views/Event/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Иван/QA SoftUni/Back-End Test Automation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi-AppSkeleton/Eventmi/Views/Event/All.cshtml]
+[D:/Иван/GitHub/Back-EndTestAutomation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi/Views/Event/All.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcQWxsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Иван/QA SoftUni/Back-End Test Automation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi-AppSkeleton/Eventmi/Views/Event/Details.cshtml]
+[D:/Иван/GitHub/Back-EndTestAutomation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi/Views/Event/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Иван/QA SoftUni/Back-End Test Automation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi-AppSkeleton/Eventmi/Views/Event/Edit.cshtml]
+[D:/Иван/GitHub/Back-EndTestAutomation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi/Views/Event/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Иван/QA SoftUni/Back-End Test Automation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi-AppSkeleton/Eventmi/Views/Home/Index.cshtml]
+[D:/Иван/GitHub/Back-EndTestAutomation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Иван/QA SoftUni/Back-End Test Automation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi-AppSkeleton/Eventmi/Views/Shared/Error.cshtml]
+[D:/Иван/GitHub/Back-EndTestAutomation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Иван/QA SoftUni/Back-End Test Automation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi-AppSkeleton/Eventmi/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Иван/GitHub/Back-EndTestAutomation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Иван/QA SoftUni/Back-End Test Automation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi-AppSkeleton/Eventmi/Views/_ViewImports.cshtml]
+[D:/Иван/GitHub/Back-EndTestAutomation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Иван/QA SoftUni/Back-End Test Automation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi-AppSkeleton/Eventmi/Views/_ViewStart.cshtml]
+[D:/Иван/GitHub/Back-EndTestAutomation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Иван/QA SoftUni/Back-End Test Automation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi-AppSkeleton/Eventmi/Views/Shared/_Layout.cshtml]
+[D:/Иван/GitHub/Back-EndTestAutomation/Back-End Test Automation/04. Exercise Integration Testing of Web API Controllers/Eventmi/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-630kgbcr6z
